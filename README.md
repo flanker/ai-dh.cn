@@ -1,5 +1,12 @@
 # AI 导航集合
 
+这个网站收录了国内海外的 AI 产品导航目录网站。
+
+你可以：
+
+1. 在这些 AI 产品/工具 导航网站中，找到你需要的 AI 产品；
+2. 将你的 AI 产品/工具，提交到这些导航站中，让更多的人发现；
+
 ## 国内
 
 * AI工具集 [https://ai-bot.cn](https://ai-bot.cn)
@@ -44,3 +51,11 @@
 * Popular Ai Tools [https://www.popularaitools.ai](https://www.popularaitools.ai)
 * AI Scout [https://aiscout.net](https://aiscout.net)
 * AI Hunt [https://aihunt.app](https://aihunt.app)
+
+## 共建
+
+website：[https://ai-dh.cn](https://ai-dh.cn)
+
+github 地址： [https://github.com/flanker/ai-dh.cn](https://github.com/flanker/ai-dh.cn)
+
+你可以提交 issue 或者 PR
