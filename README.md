@@ -1,5 +1,7 @@
 # AI 导航集合
 
+## 国内
+
 * AI工具集 [https://ai-bot.cn](https://ai-bot.cn)
 * 办公人导航 [https://www.bgrdh.com](https://www.bgrdh.com)
 * 神器集 [https://hao.logosc.cn](https://hao.logosc.cn)
@@ -27,3 +29,18 @@
 * 未来百科 [https://www.huntagi.com](https://www.huntagi.com)
 * AI旋风 [https://www.aixuanfeng.com](https://www.aixuanfeng.com)
 * AI Base [https://top.aibase.com](https://top.aibase.com)
+
+## 海外
+
+* Toolify [https://www.toolify.ai](https://www.toolify.ai)
+* Openfuture [https://openfuture.ai](https://openfuture.ai)
+* EasyWithAI [https://easywithai.com](https://easywithai.com)
+* FutureTools [https://www.futuretools.io](https://www.futuretools.io)
+* Aixploria [https://www.aixploria.com](https://www.aixploria.com)
+* AI Tools Directory [https://aitoolsdirectory.com](https://aitoolsdirectory.com)
+* AI Tool Guru [https://aitoolguru.com](https://aitoolguru.com)
+* insidr.ai [https://www.insidr.ai/ai-tools](https://www.insidr.ai/ai-tools)
+* AI Center [https://aicenter.ai](https://aicenter.ai)
+* Popular Ai Tools [https://www.popularaitools.ai](https://www.popularaitools.ai)
+* AI Scout [https://aiscout.net](https://aiscout.net)
+* AI Hunt [https://aihunt.app](https://aihunt.app)
